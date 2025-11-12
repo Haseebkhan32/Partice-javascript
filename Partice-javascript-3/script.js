@@ -3,22 +3,22 @@
 // Tasks- 1 
 
 let string1 = "Cafe";
-console.log("value: " + ""+ string1 +" "+"Type: "+ " " + typeof string1);
+console.log("value: " + " "+ string1 +" "+"Type: "+ " " + typeof string1);
 
 let number2 = 50;
-console.log("value: " + ""+ number2 +" "+"Type: "+ " " + typeof number2);
+console.log("value: " + " "+ number2 +" "+"Type: "+ " " + typeof number2);
 
 let boolean3 = true;
-console.log("value: " + ""+ boolean3 +" "+"Type: "+ " " + typeof boolean3);
+console.log("value: " + " "+ boolean3 +" "+"Type: "+ " " + typeof boolean3);
 
 let null4 = null;
-console.log("value: " + ""+ null4 +" "+"Type: "+ " " + typeof null4);
+console.log("value: " + " "+ null4 +" "+"Type: "+ " " + typeof null4);
 
 let undefined5 ;
-console.log("value: " + ""+ undefined5 +" "+"Type: "+ " " + typeof undefined5);
+console.log("value: " + " "+ undefined5 +" "+"Type: "+ " " + typeof undefined5);
 
 let bigint6 = 324240424322;
-console.log("value: " + ""+ bigint6 +" "+"Type: "+ " " + typeof bigint6);
+console.log("value: " + " "+ bigint6 +" "+"Type: "+ " " + typeof bigint6);
 
 // let symbol7 = symbol("id2") ;
 // let symbol8 = symbol("id2") ;
